@@ -4,7 +4,7 @@ body {
     font-family: 'Poppins', sans-serif;
     max-width: 1280px;
     margin: 0 auto;
-    background: url("/src/imagens/claro.jpg"), center;
+    background: url("https://r4.wallpaperflare.com/wallpaper/927/247/737/pokemon-nature-pikachu-charmander-wallpaper-4664237548c040be06a0d9e164fe6dd4.jpg"), center;
 }
 
 body.modo-escuro{

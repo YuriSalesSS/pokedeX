@@ -153,3 +153,22 @@ main .descricao {
     font-size: 14px;
     padding-right: 10px;
 }
+
+.search {
+    display: flex;
+    justify-content: center;
+    column-gap: 10px;
+    height: 50px;
+}
+
+.poke-search {
+    border-radius: 15px;
+    width: 400px;
+
+}
+.botao-search{
+    width: 200px;
+    border-radius: 15px;
+    background-color: rgb(87, 168, 128);
+    cursor: pointer;
+}

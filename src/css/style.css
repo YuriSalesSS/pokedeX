@@ -52,6 +52,12 @@ header #botao-alterar-tema {
     cursor: pointer;
 }
 
+header #pokeball {
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+
 header .logo:hover,
 header #botao-alterar-tema:hover,
 .cartao-pokemon:hover {

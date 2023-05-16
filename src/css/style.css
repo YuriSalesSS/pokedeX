@@ -172,3 +172,52 @@ main .descricao {
     background-color: rgb(87, 168, 128);
     cursor: pointer;
 }
+
+.pokemon{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 10px;
+    padding: 30px;
+    background-color: rgba(240, 248, 255, 0.74);
+    border-radius: 15px;
+}
+
+.pokemon-info {
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    padding: 5px;
+    
+}
+
+.pokemon-picture {
+    display: flex;
+        
+}
+
+.pokemon-picture img {
+    width: 25%;
+}
+
+.pokemon .name {
+    margin-bottom: 10px;
+}
+
+.pokemon .number {
+    margin-bottom: 10px;
+}
+
+.pokemon .type {
+    margin-bottom: 10px;
+}
+
+.pokemon .weight {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.pokemon .whight {
+
+}
